@@ -1,0 +1,422 @@
+{
+  "United States": {
+    "iso_code": "USA",
+    "political_regime": "Democratic Federal Republic",
+    "geopolitical_bloc": ["G7", "NATO", "G20"],
+    "currency": "USD",
+    "currency_strength_vs_usd": 1.00,
+    "population": 347275807,
+    "gender_distribution": {"male": 49.2, "female": 50.8},
+    "age_distribution": {"0-17": 20, "18-64": 58, "65_plus": 22},
+    "education_level": {"no_high_school": 9, "high_school": 28, "some_college": 31, "bachelor_or_higher": 32},
+    "income_distribution": {"low_income": 24, "middle_income": 52, "high_income": 24},
+    "industry_of_work": {"agriculture": 1.4, "manufacturing": 18, "services": 80.6},
+    "tax_levels": {"personal_income_tax_top_rate": 37, "corporate_tax_rate": 21},
+    "top_cities": [
+      {"city": "New York", "population": 18804000, "percent_of_country": 5.41},
+      {"city": "Los Angeles", "population": 12750807, "percent_of_country": 3.67},
+      {"city": "Chicago", "population": 9390188, "percent_of_country": 2.70},
+      {"city": "Houston", "population": 7134700, "percent_of_country": 2.05},
+      {"city": "Phoenix", "population": 5080000, "percent_of_country": 1.46}
+    ]
+  },
+  "China": {
+    "iso_code": "CHN",
+    "political_regime": "Authoritarian single-party state",
+    "geopolitical_bloc": ["BRICS", "Shanghai Cooperation Organisation", "G20"],
+    "currency": "CNY",
+    "currency_strength_vs_usd": 0.14,
+    "population": 1474016821,
+    "gender_distribution": {"male": 51.9, "female": 48.1},
+    "age_distribution": {"0-14": 17.6, "15-64": 73.6, "65_plus": 8.9},
+    "education_level": {"primary": 22, "secondary": 54, "tertiary": 24},
+    "income_distribution": {"low_income": 33, "middle_income": 55, "high_income": 12},
+    "industry_of_work": {"agriculture": 24, "industry": 28, "services": 48},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 25},
+    "top_cities": [
+      {"city": "Shanghai", "population": 30482100, "percent_of_country": 2.07},
+      {"city": "Beijing", "population": 22596500, "percent_of_country": 1.53},
+      {"city": "Tianjin", "population": 14704100, "percent_of_country": 1.00},
+      {"city": "Guangzhou", "population": 11000000, "percent_of_country": 0.75},
+      {"city": "Shenzhen", "population": 13545400, "percent_of_country": 0.92}
+    ]
+  },
+  "Germany": {
+    "iso_code": "DEU",
+    "political_regime": "Democratic parliamentary republic",
+    "geopolitical_bloc": ["EU", "NATO", "G7", "G20"],
+    "currency": "EUR",
+    "currency_strength_vs_usd": 1.12,
+    "population": 84075075,
+    "gender_distribution": {"male": 48.8, "female": 51.2},
+    "age_distribution": {"0-14": 13, "15-64": 63, "65_plus": 24},
+    "education_level": {"secondary": 58, "tertiary": 32, "other": 10},
+    "income_distribution": {"low_income": 22, "middle_income": 61, "high_income": 17},
+    "industry_of_work": {"agriculture": 1.1, "industry": 27.3, "services": 71.6},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 30},
+    "top_cities": [
+      {"city": "Berlin", "population": 3769495, "percent_of_country": 4.48},
+      {"city": "Hamburg", "population": 1841179, "percent_of_country": 2.19},
+      {"city": "Munich", "population": 1558395, "percent_of_country": 1.85},
+      {"city": "Cologne", "population": 1085664, "percent_of_country": 1.29},
+      {"city": "Frankfurt", "population": 763380, "percent_of_country": 0.91}
+    ]
+  },
+  "Japan": {
+    "iso_code": "JPN",
+    "political_regime": "Democratic parliamentary constitutional monarchy",
+    "geopolitical_bloc": ["G7", "G20"],
+    "currency": "JPY",
+    "currency_strength_vs_usd": 0.0073,
+    "population": 122085961,
+    "gender_distribution": {"male": 48.9, "female": 51.1},
+    "age_distribution": {"0-14": 11.4, "15-64": 59.2, "65_plus": 29.4},
+    "education_level": {"upper_secondary_or_higher": 92, "tertiary": 50},
+    "income_distribution": {"low_income": 23, "middle_income": 60, "high_income": 17},
+    "industry_of_work": {"agriculture": 3.4, "industry": 26.6, "services": 70},
+    "tax_levels": {"personal_income_tax_top_rate": 55.95, "corporate_tax_rate": 30.62},
+    "top_cities": [
+      {"city": "Tokyo", "population": 37036200, "percent_of_country": 30.31},
+      {"city": "Yokohama", "population": 3697894, "percent_of_country": 3.03},
+      {"city": "Osaka", "population": 2715000, "percent_of_country": 2.22},
+      {"city": "Nagoya", "population": 2304420, "percent_of_country": 1.89},
+      {"city": "Sapporo", "population": 1971419, "percent_of_country": 1.61}
+    ]
+  },
+  "India": {
+    "iso_code": "IND",
+    "political_regime": "Democratic federal republic",
+    "geopolitical_bloc": ["BRICS", "G20"],
+    "currency": "INR",
+    "currency_strength_vs_usd": 0.012,
+    "population": 1436840047,
+    "gender_distribution": {"male": 51.5, "female": 48.5},
+    "age_distribution": {"0-14": 25.9, "15-64": 67.7, "65_plus": 6.4},
+    "education_level": {"primary": 23, "secondary": 55, "tertiary": 22},
+    "income_distribution": {"low_income": 41, "middle_income": 49, "high_income": 10},
+    "industry_of_work": {"agriculture": 41, "industry": 25, "services": 34},
+    "tax_levels": {"personal_income_tax_top_rate": 39, "corporate_tax_rate": 34.94},
+    "top_cities": [
+      {"city": "Delhi", "population": 34665600, "percent_of_country": 2.41},
+      {"city": "Mumbai", "population": 22089000, "percent_of_country": 1.54},
+      {"city": "Bangalore", "population": 14395400, "percent_of_country": 1.00},
+      {"city": "Chennai", "population": 12336000, "percent_of_country": 0.86},
+      {"city": "Hyderabad", "population": 10150000, "percent_of_country": 0.71}
+    ]
+  },
+  "United Kingdom": {
+    "iso_code": "GBR",
+    "political_regime": "Democratic parliamentary constitutional monarchy",
+    "geopolitical_bloc": ["G7", "G20", "NATO"],
+    "currency": "GBP",
+    "currency_strength_vs_usd": 1.25,
+    "population": 68905499,
+    "gender_distribution": {"male": 49.2, "female": 50.8},
+    "age_distribution": {"0-14": 17.5, "15-64": 62.7, "65_plus": 19.8},
+    "education_level": {"secondary": 44, "tertiary": 47, "other": 9},
+    "income_distribution": {"low_income": 20, "middle_income": 58, "high_income": 22},
+    "industry_of_work": {"agriculture": 1.5, "industry": 18.1, "services": 80.4},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 25},
+    "top_cities": [
+      {"city": "London", "population": 9000000, "percent_of_country": 13.06},
+      {"city": "Birmingham", "population": 1155000, "percent_of_country": 1.68},
+      {"city": "Glasgow", "population": 635640, "percent_of_country": 0.92},
+      {"city": "Liverpool", "population": 498042, "percent_of_country": 0.72},
+      {"city": "Bristol", "population": 459000, "percent_of_country": 0.67}
+    ]
+  },
+  "France": {
+    "iso_code": "FRA",
+    "political_regime": "Democratic semi-presidential republic",
+    "geopolitical_bloc": ["EU", "G7", "G20", "NATO"],
+    "currency": "EUR",
+    "currency_strength_vs_usd": 1.12,
+    "population": 65468729,
+    "gender_distribution": {"male": 48.5, "female": 51.5},
+    "age_distribution": {"0-14": 16.9, "15-64": 59.5, "65_plus": 23.6},
+    "education_level": {"upper_secondary": 59, "tertiary": 36, "other": 5},
+    "income_distribution": {"low_income": 23, "middle_income": 66, "high_income": 11},
+    "industry_of_work": {"agriculture": 1.7, "industry": 20.3, "services": 78},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 25},
+    "top_cities": [
+      {"city": "Paris", "population": 10858000, "percent_of_country": 16.58},
+      {"city": "Marseille", "population": 863310, "percent_of_country": 1.32},
+      {"city": "Lyon", "population": 515695, "percent_of_country": 0.79},
+      {"city": "Toulouse", "population": 479553, "percent_of_country": 0.73},
+      {"city": "Nice", "population": 340017, "percent_of_country": 0.52}
+    ]
+  },
+  "Italy": {
+    "iso_code": "ITA",
+    "political_regime": "Democratic parliamentary republic",
+    "geopolitical_bloc": ["EU", "G7", "NATO"],
+    "currency": "EUR",
+    "currency_strength_vs_usd": 1.12,
+    "population": 58674297,
+    "gender_distribution": {"male": 48.7, "female": 51.3},
+    "age_distribution": {"0-14": 12.7, "15-64": 62.6, "65_plus": 24.7},
+    "education_level": {"upper_secondary": 60, "tertiary": 21, "other": 19},
+    "income_distribution": {"low_income": 27, "middle_income": 61, "high_income": 12},
+    "industry_of_work": {"agriculture": 3.2, "industry": 26.2, "services": 70.6},
+    "tax_levels": {"personal_income_tax_top_rate": 43, "corporate_tax_rate": 24},
+    "top_cities": [
+      {"city": "Rome", "population": 2847000, "percent_of_country": 4.85},
+      {"city": "Milan", "population": 1366180, "percent_of_country": 2.33},
+      {"city": "Naples", "population": 967069, "percent_of_country": 1.65},
+      {"city": "Turin", "population": 870456, "percent_of_country": 1.48},
+      {"city": "Palermo", "population": 669097, "percent_of_country": 1.14}
+    ]
+  },
+  "Canada": {
+    "iso_code": "CAN",
+    "political_regime": "Democratic federal parliamentary constitutional monarchy",
+    "geopolitical_bloc": ["G7", "G20", "NATO"],
+    "currency": "CAD",
+    "currency_strength_vs_usd": 0.74,
+    "population": 40362313,
+    "gender_distribution": {"male": 49.6, "female": 50.4},
+    "age_distribution": {"0-14": 15.9, "15-64": 64.1, "65_plus": 20},
+    "education_level": {"secondary": 39, "tertiary": 63, "other": 8},
+    "income_distribution": {"low_income": 15, "middle_income": 55, "high_income": 30},
+    "industry_of_work": {"agriculture": 1.6, "industry": 28.5, "services": 69.9},
+    "tax_levels": {"personal_income_tax_top_rate": 33, "corporate_tax_rate": 26.5},
+    "top_cities": [
+      {"city": "Toronto", "population": 6300000, "percent_of_country": 19.4},
+      {"city": "Montreal", "population": 4200000, "percent_of_country": 12.9},
+      {"city": "Vancouver", "population": 2600000, "percent_of_country": 7.99},
+      {"city": "Calgary", "population": 1600000, "percent_of_country": 4.92},
+      {"city": "Edmonton", "population": 1300000, "percent_of_country": 4.00}
+    ]
+  },
+  "Brazil": {
+    "iso_code": "BRA",
+    "political_regime": "Democratic federal presidential republic",
+    "geopolitical_bloc": ["BRICS", "G20"],
+    "currency": "BRL",
+    "currency_strength_vs_usd": 0.18,
+    "population": 216112280,
+    "gender_distribution": {"male": 48.9, "female": 51.1},
+    "age_distribution": {"0-14": 20.7, "15-64": 69.4, "65_plus": 9.9},
+    "education_level": {"primary": 36, "secondary": 49, "tertiary": 15},
+    "income_distribution": {"low_income": 39, "middle_income": 50, "high_income": 11},
+    "industry_of_work": {"agriculture": 9, "industry": 28, "services": 63},
+    "tax_levels": {"personal_income_tax_top_rate": 27.5, "corporate_tax_rate": 34},
+    "top_cities": [
+      {"city": "Sao Paulo", "population": 22990000, "percent_of_country": 10.64},
+      {"city": "Rio de Janeiro", "population": 13923200, "percent_of_country": 6.45},
+      {"city": "Salvador", "population": 2910000, "percent_of_country": 1.35},
+      {"city": "Brasilia", "population": 3055149, "percent_of_country": 1.41},
+      {"city": "Fortaleza", "population": 2687000, "percent_of_country": 1.24}
+    ]
+  },
+  "Russia": {
+    "iso_code": "RUS",
+    "political_regime": "Authoritarian federal semi-presidential republic",
+    "geopolitical_bloc": ["BRICS", "Shanghai Cooperation Organisation"],
+    "currency": "RUB",
+    "currency_strength_vs_usd": 0.013,
+    "population": 144359429,
+    "gender_distribution": {"male": 46.2, "female": 53.8},
+    "age_distribution": {"0-14": 17, "15-64": 64, "65_plus": 19},
+    "education_level": {"secondary": 54, "tertiary": 26, "other": 20},
+    "income_distribution": {"low_income": 32, "middle_income": 53, "high_income": 15},
+    "industry_of_work": {"agriculture": 5.3, "industry": 31.7, "services": 63.0},
+    "tax_levels": {"personal_income_tax_top_rate": 13, "corporate_tax_rate": 20},
+    "top_cities": [
+      {"city": "Moscow", "population": 12737400, "percent_of_country": 8.83},
+      {"city": "Saint Petersburg", "population": 5366000, "percent_of_country": 3.73},
+      {"city": "Novosibirsk", "population": 1612833, "percent_of_country": 1.12},
+      {"city": "Yekaterinburg", "population": 1493749, "percent_of_country": 1.04},
+      {"city": "Nizhny Novgorod", "population": 1244379, "percent_of_country": 0.86}
+    ]
+  },
+  "South Korea": {
+    "iso_code": "KOR",
+    "political_regime": "Democratic presidential republic",
+    "geopolitical_bloc": ["G20", "OECD"],
+    "currency": "KRW",
+    "currency_strength_vs_usd": 0.00075,
+    "population": 51305118,
+    "gender_distribution": {"male": 49.9, "female": 50.1},
+    "age_distribution": {"0-14": 11.6, "15-64": 71.9, "65_plus": 16.5},
+    "education_level": {"upper_secondary": 60, "tertiary": 44},
+    "income_distribution": {"low_income": 17, "middle_income": 62, "high_income": 21},
+    "industry_of_work": {"agriculture": 2.2, "industry": 27.7, "services": 70.1},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 24},
+    "top_cities": [
+      {"city": "Seoul", "population": 9746000, "percent_of_country": 19.01},
+      {"city": "Busan", "population": 3448736, "percent_of_country": 6.73},
+      {"city": "Incheon", "population": 2957026, "percent_of_country": 5.77},
+      {"city": "Daegu", "population": 2442990, "percent_of_country": 4.76},
+      {"city": "Daejeon", "population": 1503933, "percent_of_country": 2.93}
+    ]
+  },
+  "Australia": {
+    "iso_code": "AUS",
+    "political_regime": "Democratic federal parliamentary constitutional monarchy",
+    "geopolitical_bloc": ["G20", "OECD"],
+    "currency": "AUD",
+    "currency_strength_vs_usd": 0.67,
+    "population": 26667549,
+    "gender_distribution": {"male": 49.8, "female": 50.2},
+    "age_distribution": {"0-14": 18.7, "15-64": 64.9, "65_plus": 16.4},
+    "education_level": {"secondary": 38, "tertiary": 59, "other": 3},
+    "income_distribution": {"low_income": 13, "middle_income": 52, "high_income": 35},
+    "industry_of_work": {"agriculture": 3, "industry": 23, "services": 74},
+    "tax_levels": {"personal_income_tax_top_rate": 45, "corporate_tax_rate": 30},
+    "top_cities": [
+      {"city": "Sydney", "population": 5420000, "percent_of_country": 20.33},
+      {"city": "Melbourne", "population": 5080000, "percent_of_country": 19.05},
+      {"city": "Brisbane", "population": 2514094, "percent_of_country": 9.43},
+      {"city": "Perth", "population": 2249220, "percent_of_country": 8.43},
+      {"city": "Adelaide", "population": 1324275, "percent_of_country": 4.97}
+    ]
+  },
+  "Spain": {
+    "iso_code": "ESP",
+    "political_regime": "Democratic parliamentary constitutional monarchy",
+    "geopolitical_bloc": ["EU", "G20", "NATO"],
+    "currency": "EUR",
+    "currency_strength_vs_usd": 1.12,
+    "population": 48047313,
+    "gender_distribution": {"male": 49.1, "female": 50.9},
+    "age_distribution": {"0-14": 14.6, "15-64": 63.1, "65_plus": 22.3},
+    "education_level": {"secondary": 52, "tertiary": 37, "other": 11},
+    "income_distribution": {"low_income": 20, "middle_income": 67, "high_income": 13},
+    "industry_of_work": {"agriculture": 4.3, "industry": 23, "services": 72.7},
+    "tax_levels": {"personal_income_tax_top_rate": 47, "corporate_tax_rate": 25},
+    "top_cities": [
+      {"city": "Madrid", "population": 6663394, "percent_of_country": 13.87},
+      {"city": "Barcelona", "population": 5600000, "percent_of_country": 11.65},
+      {"city": "Valencia", "population": 1582535, "percent_of_country": 3.29},
+      {"city": "Seville", "population": 1247358, "percent_of_country": 2.6},
+      {"city": "Zaragoza", "population": 972528, "percent_of_country": 2.02}
+    ]
+  },
+  "Mexico": {
+    "iso_code": "MEX",
+    "political_regime": "Democratic federal presidential republic",
+    "geopolitical_bloc": ["G20"],
+    "currency": "MXN",
+    "currency_strength_vs_usd": 0.054,
+    "population": 129654504,
+    "gender_distribution": {"male": 49.1, "female": 50.9},
+    "age_distribution": {"0-14": 24.1, "15-64": 65.2, "65_plus": 10.7},
+    "education_level": {"primary": 38, "secondary": 50, "tertiary": 12},
+    "income_distribution": {"low_income": 28, "middle_income": 59, "high_income": 13},
+    "industry_of_work": {"agriculture": 12.6, "industry": 25.7, "services": 61.7},
+    "tax_levels": {"personal_income_tax_top_rate": 35, "corporate_tax_rate": 30},
+    "top_cities": [
+      {"city": "Mexico City", "population": 22752400, "percent_of_country": 17.53},
+      {"city": "Guadalajara", "population": 5291000, "percent_of_country": 4.08},
+      {"city": "Monterrey", "population": 4765000, "percent_of_country": 3.67},
+      {"city": "Puebla", "population": 1780000, "percent_of_country": 1.37},
+      {"city": "Toluca", "population": 1370000, "percent_of_country": 1.06}
+    ]
+  },
+  "Indonesia": {
+    "iso_code": "IDN",
+    "political_regime": "Democratic presidential republic",
+    "geopolitical_bloc": ["G20"],
+    "currency": "IDR",
+    "currency_strength_vs_usd": 0.000068,
+    "population": 277534122,
+    "gender_distribution": {"male": 50.1, "female": 49.9},
+    "age_distribution": {"0-14": 23.8, "15-64": 69.1, "65_plus": 7.1},
+    "education_level": {"primary": 30, "secondary": 56, "tertiary": 14},
+    "income_distribution": {"low_income": 41, "middle_income": 48, "high_income": 11},
+    "industry_of_work": {"agriculture": 29, "industry": 21, "services": 50},
+    "tax_levels": {"personal_income_tax_top_rate": 35, "corporate_tax_rate": 22},
+    "top_cities": [
+      {"city": "Jakarta", "population": 11634100, "percent_of_country": 4.19},
+      {"city": "Surabaya", "population": 2954000, "percent_of_country": 1.06},
+      {"city": "Bandung", "population": 2590000, "percent_of_country": 0.93},
+      {"city": "Medan", "population": 2224000, "percent_of_country": 0.8},
+      {"city": "Bekasi", "population": 2113000, "percent_of_country": 0.76}
+    ]
+  },
+  "Türkiye": {
+    "iso_code": "TUR",
+    "political_regime": "Hybrid regime",
+    "geopolitical_bloc": ["G20", "NATO"],
+    "currency": "TRY",
+    "currency_strength_vs_usd": 0.036,
+    "population": 84754000,
+    "gender_distribution": {"male": 50.2, "female": 49.8},
+    "age_distribution": {"0-14": 22.6, "15-64": 66.0, "65_plus": 11.4},
+    "education_level": {"primary": 21, "secondary": 57, "tertiary": 22},
+    "income_distribution": {"low_income": 35, "middle_income": 55, "high_income": 10},
+    "industry_of_work": {"agriculture": 16.7, "industry": 27.0, "services": 56.3},
+    "tax_levels": {"personal_income_tax_top_rate": 40, "corporate_tax_rate": 25},
+    "top_cities": [
+      {"city": "Istanbul", "population": 15519267, "percent_of_country": 18.3},
+      {"city": "Ankara", "population": 5788995, "percent_of_country": 6.83},
+      {"city": "Izmir", "population": 4257460, "percent_of_country": 5.04},
+      {"city": "Bursa", "population": 3044853, "percent_of_country": 3.6},
+      {"city": "Antalya", "population": 2455345, "percent_of_country": 2.89}
+    ]
+  },
+  "Netherlands": {
+    "iso_code": "NLD",
+    "political_regime": "Democratic constitutional monarchy",
+    "geopolitical_bloc": ["EU", "NATO", "G20"],
+    "currency": "EUR",
+    "currency_strength_vs_usd": 1.12,
+    "population": 17859232,
+    "gender_distribution": {"male": 49.7, "female": 50.3},
+    "age_distribution": {"0-14": 16.0, "15-64": 62.2, "65_plus": 21.8},
+    "education_level": {"secondary": 45, "tertiary": 46, "other": 9},
+    "income_distribution": {"low_income": 16, "middle_income": 65, "high_income": 19},
+    "industry_of_work": {"agriculture": 2, "industry": 16, "services": 82},
+    "tax_levels": {"personal_income_tax_top_rate": 49.5, "corporate_tax_rate": 25.8},
+    "top_cities": [
+      {"city": "Amsterdam", "population": 872757, "percent_of_country": 4.89},
+      {"city": "Rotterdam", "population": 651446, "percent_of_country": 3.65},
+      {"city": "The Hague", "population": 545838, "percent_of_country": 3.06},
+      {"city": "Utrecht", "population": 357179, "percent_of_country": 2.00},
+      {"city": "Eindhoven", "population": 235707, "percent_of_country": 1.32}
+    ]
+  },
+  "Saudi Arabia": {
+    "iso_code": "SAU",
+    "political_regime": "Absolute monarchy",
+    "geopolitical_bloc": ["G20", "OPEC"],
+    "currency": "SAR",
+    "currency_strength_vs_usd": 0.27,
+    "population": 37082487,
+    "gender_distribution": {"male": 57.7, "female": 42.3},
+    "age_distribution": {"0-14": 24.1, "15-64": 72.4, "65_plus": 3.5},
+    "education_level": {"primary": 9, "secondary": 59, "tertiary": 32},
+    "income_distribution": {"low_income": 20, "middle_income": 62, "high_income": 18},
+    "industry_of_work": {"agriculture": 2.5, "industry": 44.2, "services": 53.3},
+    "tax_levels": {"personal_income_tax_top_rate": 15, "corporate_tax_rate": 20},
+    "top_cities": [
+      {"city": "Riyadh", "population": 7930000, "percent_of_country": 21.4},
+      {"city": "Jeddah", "population": 4300000, "percent_of_country": 11.6},
+      {"city": "Mecca", "population": 2120000, "percent_of_country": 5.7},
+      {"city": "Medina", "population": 1600000, "percent_of_country": 4.3},
+      {"city": "Dammam", "population": 1220000, "percent_of_country": 3.3}
+    ]
+  },
+  "Switzerland": {
+    "iso_code": "CHE",
+    "political_regime": "Democratic federal republic",
+    "geopolitical_bloc": ["OECD"],
+    "currency": "CHF",
+    "currency_strength_vs_usd": 1.10,
+    "population": 8986272,
+    "gender_distribution": {"male": 49.7, "female": 50.3},
+    "age_distribution": {"0-14": 15.1, "15-64": 65.9, "65_plus": 19.0},
+    "education_level": {"secondary": 47, "tertiary": 49, "other": 4},
+    "income_distribution": {"low_income": 10, "middle_income": 56, "high_income": 34},
+    "industry_of_work": {"agriculture": 3.1, "industry": 24.9, "services": 72},
+    "tax_levels": {"personal_income_tax_top_rate": 33, "corporate_tax_rate": 14.6},
+    "top_cities": [
+      {"city": "Zurich", "population": 430000, "percent_of_country": 4.8},
+      {"city": "Geneva", "population": 203856, "percent_of_country": 2.3},
+      {"city": "Basel", "population": 178120, "percent_of_country": 2.0},
+      {"city": "Lausanne", "population": 139111, "percent_of_country": 1.6},
+      {"city": "Bern", "population": 133115, "percent_of_country": 1.5}
+    ]
+  }
+}

@@ -1,0 +1,1162 @@
+[
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 8,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 8,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "likely": 8,
+      "unlikely": 1,
+      "very likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "likely": 8,
+      "unlikely": 1,
+      "very likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "likely": 5,
+      "very likely": 15
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "likely": 5,
+      "very likely": 15
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_163222",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think its a good idea to move to renewable energy and build more windfarms in your country?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 17,
+      "unlikely": 2,
+      "likely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 17,
+      "unlikely": 2,
+      "likely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "likely": 9,
+      "very likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "likely": 9,
+      "very likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 5
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 5
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "likely": 7,
+      "very likely": 13
+    }
+  },
+  {
+    "timestamp": "20251101_163605",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will impose tariffs on import from other countries?",
+    "distribution": {
+      "likely": 7,
+      "very likely": 13
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 15,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 15,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 17
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 17
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 14,
+      "likely": 5,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 14,
+      "likely": 5,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 7
+    }
+  },
+  {
+    "timestamp": "20251101_163939",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will require all new vehicles to be electric by 2035?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 7
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 16,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 16,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 6,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 6,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 6,
+      "unlikely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 6,
+      "unlikely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 5
+    }
+  },
+  {
+    "timestamp": "20251101_164328",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will prioritise WTO agreements over local/regional billateral ageements?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 5
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "likely": 8,
+      "very likely": 12
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "likely": 8,
+      "very likely": 12
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 7
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 13,
+      "likely": 7
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 9,
+      "likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 9,
+      "likely": 11
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_164658",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your country will face significant domestic protests against government policies by 2030?",
+    "distribution": {
+      "very likely": 10,
+      "likely": 9,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 14,
+      "likely": 4,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 14,
+      "likely": 4,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 16,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 16,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "likely": 9,
+      "very likely": 10,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165030",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think your government will impose more taxes on citinzens in next five years",
+    "distribution": {
+      "likely": 9,
+      "very likely": 10,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "very likely": 9,
+      "likely": 9,
+      "unlikely": 1,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "very likely": 9,
+      "likely": 9,
+      "unlikely": 1,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "likely": 10,
+      "unlikely": 1,
+      "very likely": 9
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "likely": 10,
+      "unlikely": 1,
+      "very likely": 9
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "unlikely": 2,
+      "likely": 12,
+      "very likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "unlikely": 2,
+      "likely": 12,
+      "very likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "likely": 10,
+      "unlikely": 2,
+      "very likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "likely": 10,
+      "unlikely": 2,
+      "very likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "very likely": 4,
+      "likely": 14,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165400",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you expect increase in crime rate in your country in next five years?",
+    "distribution": {
+      "very likely": 4,
+      "likely": 14,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 14,
+      "likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 14,
+      "likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 4,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 15,
+      "likely": 4,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "likely": 6,
+      "very likely": 12,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "likely": 6,
+      "very likely": 12,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "likely": 6,
+      "very likely": 13,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "likely": 6,
+      "very likely": 13,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 14,
+      "unlikely": 2,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_165735",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Do you think high electricity pries justify net zero goals of your government?",
+    "distribution": {
+      "very likely": 14,
+      "unlikely": 2,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "likely": 8,
+      "very likely": 10,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "likely": 8,
+      "very likely": 10,
+      "unlikely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 12,
+      "likely": 8
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 6,
+      "unlikely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 6,
+      "unlikely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 9
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "very likely": 11,
+      "likely": 9
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 13,
+      "likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_170110",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you buy electric car if it was more expencive than the petrol vehicle?",
+    "distribution": {
+      "unlikely": 1,
+      "very likely": 13,
+      "likely": 6
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 4
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 17
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "likely": 3,
+      "very likely": 17
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 19,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 19,
+      "highly unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_170448",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you want to pay for your children education if it is better quality?",
+    "distribution": {
+      "very likely": 17,
+      "likely": 3
+    }
+  },
+  {
+    "timestamp": "20251101_170820",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "USA",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "CHN",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 16,
+      "likely": 3,
+      "unlikely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "DEU",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "JPN",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 18,
+      "likely": 2
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 19,
+      "likely": 1
+    }
+  },
+  {
+    "timestamp": "20251101_170821",
+    "country_code": "IND",
+    "num_agents": 20,
+    "question": "Would you pay for online services and media if they would not share your data with third parties?",
+    "distribution": {
+      "very likely": 19,
+      "likely": 1
+    }
+  }
+]
